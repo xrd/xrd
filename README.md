@@ -1,5 +1,5 @@
 - 🔭 I’m currently working as CTO at Vivoh.com
-- 🌱 I’m currently learning Elixir/Phoenix. Exercism.com is incredible!
+- 🌱 I’m currently learning Elixir/Phoenix. [Exercism.org](Exercism.org) is incredible!
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: chris@vivoh.com
 - 😄 Pronouns: he/him
